@@ -12,11 +12,8 @@
 **Frontend & Design:**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=SASS&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 **Backend & Database:**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -43,59 +40,13 @@
 
 ---
 
-### 🔥 Streak & Trophy
-
-<p align="center">
-  <a href="https://github.com/your-profile">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-profile&theme=radical&hide_border=true" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/your-profile">
-    <img src="https://github-profile-trophy.vercel.app/?username=your-profile&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
-  </a>
-</p>
-
----
-
-### 💼 Featured Projects
-
-Here are a few projects I've built that I'm particularly proud of:
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[Project Name 1](https://your-live-demo-link.com)** | A full-stack e-commerce platform with user auth, cart, and payment integration. | `MERN Stack`, `Stripe`, `JWT`, `TailwindCSS` |
-| **[Project Name 2](https://your-live-demo-link.com)** | A responsive task management app with drag-and-drop functionality. | `React`, `Node.js`, `MongoDB`, `Framer Motion` |
-| **[Project Name 3](https://your-live-demo-link.com)** | A modern portfolio website for a freelance designer with a CMS. | `Next.js`, `Headless CMS`, `Framer Motion` |
-
----
-
-### ✍️ Random Dev Quote
-
-<p align="center">
-  <a href="https://github.com/your-profile">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-  </a>
-</p>
-
----
-
 ### 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://your-portfolio-website.com">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/ajharuddinbhuiyan/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:bhuiyanrifat619@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your-profile">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-profile&label=Profile%20Views&color=0e75b6&style=flat" alt="your-profile" />
 </p>
