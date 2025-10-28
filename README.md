@@ -66,9 +66,8 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/bhrifat619">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhrifat619&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-      </a>
+     <a href="https://github.com/bhrifat619">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhrifat619&show_icons=true&theme=radical&hide_border=true&count_private=true" />
     </td>
     <td align="center">
       <a href="https://github.com/bhrifat619">
