@@ -46,7 +46,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/AjharUddinBhuiyan">
+  <a href="https://github.com/bhrifat619">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AjharUddinBhuiyan&show_icons=true&theme=radical&hide_border=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjharUddinBhuiyan&layout=compact&theme=radical&hide_border=true" />
   </a>
