@@ -1,18 +1,25 @@
 <div align="center">
   
-<!-- Profile Picture -->
-<img src="https://github.com/bhrifat619.png" alt="Ajhar Uddin Bhuiyan" width="150" height="150" style="border-radius: 50%; border: 4px solid #36BCF7; box-shadow: 0 0 20px rgba(54, 188, 247, 0.3); margin-top: -75px; position: relative; z-index: 1;" />
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <!-- Profile Picture on Left -->
+      <img src="https://github.com/bhrifat619.png" alt="Ajhar Uddin Bhuiyan" width="200" height="200" style="border-radius: 50%; border: 4px solid #36BCF7; box-shadow: 0 0 20px rgba(54, 188, 247, 0.3);" />
+    </td>
+    <td width="50%">
+      <!-- Text Content on Right -->
+      <h1>Hi there, I'm Ajhar Uddin Bhuiyan 👋</h1>
+      <h3>A passionate frontend-focused MERN Stack Developer from Bangladesh</h3>
+      <p>
+        <a href="https://github.com/bhrifat619">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=false&vCenter=false&width=435&lines=Crafting+beautiful+user+experiences;Clean+code+enthusiast;MERN+Stack+Developer;React+%7C+Tailwind+%7C+Node.js" alt="Typing SVG" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
-
-<h1 align="center">Hi there, I'm Ajhar Uddin Bhuiyan 👋</h1>
-<h3 align="center">A passionate frontend-focused MERN Stack Developer from Bangladesh</h3>
-
-<p align="center">
-  <a href="https://github.com/bhrifat619">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Crafting+beautiful+user+experiences;Clean+code+enthusiast;MERN+Stack+Developer;React+%7C+Tailwind+%7C+Node.js" alt="Typing SVG" />
-  </a>
-</p>
 
 ---
 
