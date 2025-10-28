@@ -4,7 +4,7 @@
   <tr>
     <td width="50%" align="center">
       <!-- Profile Picture on Left -->
-      <img src="https://github.com/bhrifat619.png" alt="Ajhar Uddin Bhuiyan" width="200" height="200" style="border-radius: 50%; border: 4px solid #36BCF7; box-shadow: 0 0 20px rgba(54, 188, 247, 0.3);" />
+      <img src="https://github.com/bhrifat619.png" alt="Ajhar Uddin Bhuiyan" width="200" height="200" style="border-radius: 100%; border: 4px solid #36BCF7; box-shadow: 0 0 20px rgba(54, 188, 247, 0.3);" />
     </td>
     <td width="50%">
       <!-- Text Content on Right -->
@@ -87,7 +87,7 @@
 
 ### 🔄 Current Focus
 
-<div align="center">
+<div align="left">
 
 🚀 **Building modern web applications with Next.js**  
 🎯 **Mastering advanced React patterns and performance optimization**  
