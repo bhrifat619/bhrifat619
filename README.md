@@ -95,7 +95,7 @@ I'm always open to discussing new opportunities, interesting projects, or just h
   <a href="mailto:bhuiyanrifat619@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000&color=D14836" alt="Email" />
   </a>
-  <a href="https://github.com/AjharUddinBhuiyan" target="_blank">
+  <a href="https://github.com/bhrifat619" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000&color=181717" alt="GitHub" />
   </a>
 </p>
