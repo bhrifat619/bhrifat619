@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
-<h3 align="center">A passionate frontend-focused MERN Stack Developer from [Your Location]</h3>
+<h1 align="center">Hi there, I'm Ajhar Uddin Bhuiyan 👋</h1>
+<h3 align="center">A passionate frontend-focused MERN Stack Developer</h3>
 
 <p align="center">
   <a href="https://github.com/your-profile"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Crafting+beautiful+user+experiences;Clean+code+enthusiast;MERN+Stack+Developer" alt="Typing SVG" /></a>
