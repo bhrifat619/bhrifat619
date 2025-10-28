@@ -14,7 +14,7 @@
 
 ### 💫 About Me
 
-<p align="center">
+<p align="left">
   <strong>👨‍💻 Frontend-Focused MERN Stack Developer</strong><br>
   ⚡ Crafting responsive and modern web applications with clean code<br>
   🌱 Specialized in React, JavaScript, and building seamless user experiences<br>
