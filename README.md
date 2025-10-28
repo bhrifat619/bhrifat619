@@ -1,8 +1,5 @@
 <div align="center">
   
-<!-- Cover Photo -->
-<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80" alt="Cover" style="width: 100%; height: 300px; object-fit: cover; border-radius: 10px; margin-bottom: 20px;" />
-
 <!-- Profile Picture -->
 <img src="https://github.com/bhrifat619.png" alt="Ajhar Uddin Bhuiyan" width="150" height="150" style="border-radius: 50%; border: 4px solid #36BCF7; box-shadow: 0 0 20px rgba(54, 188, 247, 0.3); margin-top: -75px; position: relative; z-index: 1;" />
 
