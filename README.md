@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend-focused MERN Stack Developer from Bangladesh</h3>
 
 <p align="center">
-  <a href="https://github.com/AjharUddinBhuiyan">
+  <a href="https://github.com/bhrifat619">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Crafting+beautiful+user+experiences;Clean+code+enthusiast;MERN+Stack+Developer;React+%7C+Tailwind+%7C+Node.js" alt="Typing SVG" />
   </a>
 </p>
@@ -10,7 +10,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github.com/AjharUddinBhuiyan.png" alt="Ajhar Uddin Bhuiyan" width="200" height="200" style="border-radius: 50%; border: 4px solid #36BCF7; box-shadow: 0 0 20px rgba(54, 188, 247, 0.3);" />
+  <img src="https://github.com/bhrifat619.png" alt="Ajhar Uddin Bhuiyan" width="200" height="200" style="border-radius: 50%; border: 4px solid #36BCF7; box-shadow: 0 0 20px rgba(54, 188, 247, 0.3);" />
 </div>
 
 <br />
@@ -98,21 +98,5 @@ I'm always open to discussing new opportunities, interesting projects, or just h
   <a href="https://github.com/AjharUddinBhuiyan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000&color=181717" alt="GitHub" />
   </a>
-  <a href="tel:+8801615861498" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000&color=25D366" alt="WhatsApp" />
-  </a>
 </p>
 
-<div align="center">
-
-### 🌐 Find Me Online
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000)](https://your-portfolio-link.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000)](https://twitter.com/your-handle)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000)](https://facebook.com/your-profile)
-
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AjharUddinBhuiyan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
