@@ -4,7 +4,7 @@
 <h3>A passionate frontend-focused MERN Stack Developer from Bangladesh</h3>
 <p>
   <a href="https://github.com/bhrifat619">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Crafting+beautiful+user+experiences;Clean+code+enthusiast;MERN+Stack+Developer;React+%7C+Tailwind+%7C+Node.js" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Clean+code+enthusiast;MERN+Stack+Developer;MongoDB+%7C+React+%7C+ExpressJS+%7C+Node.js" alt="Typing SVG" />
   </a>
 </p>
 
