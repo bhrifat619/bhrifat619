@@ -53,22 +53,13 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  
-<table>
-  <tr>
-    <td align="center">
-     <a href="https://github.com/bhrifat619">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhrifat619&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-    </td>
-    <td align="center">
-      <a href="https://github.com/bhrifat619">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhrifat619&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-      </a>
-    </td>
-  </tr>
-</table>
+
+  <!-- GitHub Profile Summary Card -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhrifat619&theme=radical" />
 
 </div>
+
+
 
 ---
 
